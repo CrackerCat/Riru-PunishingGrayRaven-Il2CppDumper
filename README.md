@@ -3,7 +3,7 @@
 
 ## 如何使用
 1. 安装[Magisk](https://github.com/topjohnwu/Magisk)和[Riru](https://github.com/RikkaApps/Riru)
-2. 下载源码
+2. [下载源码](https://github.com/GodLeaveMe/Riru-PunishingGrayRaven-Il2CppDumper/releases)
 3. 使用Android Studio运行gradle任务`:module:assembleRelease`编译
 4. 在Magisk里安装模块
 5. 启动游戏，会在`/data/data/com.kurogame.haru.bilibili/files/`目录下生成`dump.cs`
